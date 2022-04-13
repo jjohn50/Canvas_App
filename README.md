@@ -1,4 +1,5 @@
 # Canvas_App
+![Layout of Imagealt](canvas_companion.png)  
 
 # Goal:
 The goal of this project is to help Stevens ECE department with adding and removing mutiple users from classes on Canvas. Due to the nature of how the API keys worked, the team could not add/delete users from canvas as it would be security threat. The team spun this idea to instead make an application for both students/teachers to use canvas for unique functions such as creating assignments, looking at class rosters, looking at grades, etc. The funcationality for add/delete is in place, but api will tell the use they do not have permission to use these function present.    
@@ -52,4 +53,3 @@ Notice: Student ID is not the standard 8 digits used by Stevens rather its uniqu
     f. "Update Assignment Elements" -> Requires Course ID and Assignment ID 
     g. "Get Assignment Name" -> Requires Course ID and Assignment ID
 
-![Layout of Imagealt](canvas_companion.png)  
